@@ -8,7 +8,7 @@ class Solution {
                 int temp=nums[i];
                 nums[i]=nums[l];
                 nums[l]=temp;
-                left++
+                l++;
             }
         }
         // while(index<nums.length){
