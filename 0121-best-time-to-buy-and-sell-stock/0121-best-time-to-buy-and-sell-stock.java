@@ -1,17 +1,17 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int tp=0;
+        int total_price=0;
         int n=prices.length;
-        int bp=prices[0];
+        int buying_price=prices[0];
         for(int i=1;i<n;i++){
-            int cp=prices[i]-bp;
-            if(cp>tp){
-                tp=cp;
+            int current_price=prices[i]-buying_price;
+            if(current_price>total_price){
+                total_price=current_price;
             }
-            if(bp>prices[i]){
-                bp=prices[i];
+            if(buying_price>prices[i]){
+                buying_price=prices[i];
             }
         }
-        return tp;
+        return total_price;
     }
 }
