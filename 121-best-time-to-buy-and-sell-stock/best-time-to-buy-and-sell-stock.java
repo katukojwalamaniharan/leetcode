@@ -9,9 +9,10 @@ class Solution {
             //     total_price=current_price;
             // }
             total_price=Math.max(total_price,current_price);
-            if(buying_price>prices[i]){
-                buying_price=prices[i];
-            }
+            // if(buying_price>prices[i]){
+            //     buying_price=prices[i];
+            // }
+            buying_price=Math.min(buying_price,prices[i]);
         }
         return total_price;
     }
