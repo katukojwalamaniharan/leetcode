@@ -3,7 +3,7 @@ class Solution {
         int l=0;
         int r=height.length-1;
         int ans=0;
-        while(l<=r){
+        while(l<r){
             int area=Math.min(height[l],height[r])*(r-l);
             if(area>ans){
                 ans=area;
