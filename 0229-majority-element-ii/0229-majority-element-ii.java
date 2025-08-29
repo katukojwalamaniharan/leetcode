@@ -1,41 +1,55 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int cd1=-1;
-        int cd2=-1;
-        int count1=0;
-        int count2=0;
-        int i=0;
-        while(i<nums.length){
-            int num=nums[i];
-            if(num==cd1){
+        int count1 = 0, count2 = 0; // Counters for the potential majority elements
+        int candidate1 = 0, candidate2 = 0; // Potential majority element candidates
+
+        // First pass to find potential majority elements.
+        for (int i = 0; i < nums.length; i++) {
+            // If count1 is 0 and the current number is not equal to candidate2, update candidate1.
+            if (count1 == 0 && nums[i] != candidate2) {
+                count1 = 1;
+                candidate1 = nums[i];
+            } 
+            // If count2 is 0 and the current number is not equal to candidate1, update candidate2.
+            else if (count2 == 0 && nums[i] != candidate1) {
+                count2 = 1;
+                candidate2 = nums[i];
+            } 
+            // Update counts for candidate1 and candidate2.
+            else if (candidate1 == nums[i]) {
                 count1++;
-            }else if(num==cd2){
+            } else if (candidate2 == nums[i]) {
                 count2++;
-            }else if(count1==0){
-                cd1=num;
-                count1++;
-            }else if(count2==0){
-                cd2=num;
-                count2++;
-            }else{
+            } 
+            // If the current number is different from both candidates, decrement their counts.
+            else {
                 count1--;
                 count2--;
             }
-            i++;
         }
-        ArrayList<Integer> ans=new ArrayList<>();
-        int c1=0;
-        int c2=0;
-        for(i=0;i<nums.length;i++){
-            if(nums[i]==cd1) c1++;
-            if(nums[i]==cd2) c2++;
+
+        List<Integer> result = new ArrayList<>();
+        int threshold = nums.length / 3; // Threshold for majority element
+
+        // Second pass to count occurrences of the potential majority elements.
+        count1 = 0;
+        count2 = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (candidate1 == nums[i]) {
+                count1++;
+            } else if (candidate2 == nums[i]) {
+                count2++;
+            }
         }
-        if(cd1==cd2){
-            ans.add(cd1);
-        }else{
-            if(c1>nums.length/3) ans.add(cd1);
-            if(c2>nums.length/3) ans.add(cd2);
+
+        // Check if the counts of potential majority elements are greater than n/3 and add them to the result.
+        if (count1 > threshold) {
+            result.add(candidate1);
         }
-        return ans;
+        if (count2 > threshold) {
+            result.add(candidate2);
+        }
+
+        return result;
     }
 }
