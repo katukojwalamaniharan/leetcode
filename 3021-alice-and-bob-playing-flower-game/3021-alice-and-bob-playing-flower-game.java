@@ -1,5 +1,5 @@
 class Solution {
     public long flowerGame(int n, int m) {
-        return n*m/2;
+        return 1L*n*m/2;
     }
 }
