@@ -5,7 +5,7 @@ class Solution {
             int num=i;
             int temp=i;
             boolean res=true;
-            while(temp!=0){
+            while(temp>0){
                 int dig=temp%10;
                 if(dig==0||num%dig!=0){
                     res=false;
