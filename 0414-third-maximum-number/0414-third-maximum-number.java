@@ -1,15 +1,28 @@
-import java.util.*;
-
 class Solution {
     public int thirdMax(int[] nums) {
-        TreeSet<Integer> set = new TreeSet<>();
+        Long m1 = null, m2 = null, m3 = null;
         
         for (int x : nums) {
-            set.add(x);          // only keeps distinct
-            if (set.size() > 3)  // remove smallest if > 3
-                set.pollFirst();
+            long num = x;
+            
+            if ((m1 != null && num == m1) ||
+                (m2 != null && num == m2) ||
+                (m3 != null && num == m3)) {
+                continue; // skip duplicates
+            }
+            
+            if (m1 == null || num > m1) {
+                m3 = m2;
+                m2 = m1;
+                m1 = num;
+            } else if (m2 == null || num > m2) {
+                m3 = m2;
+                m2 = num;
+            } else if (m3 == null || num > m3) {
+                m3 = num;
+            }
         }
         
-        return set.size() == 3 ? set.first() : set.last();
+        return (m3 == null) ? m1.intValue() : m3.intValue();
     }
 }
