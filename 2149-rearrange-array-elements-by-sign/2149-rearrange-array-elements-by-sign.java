@@ -18,8 +18,8 @@ class Solution {
             nums[k++]=pos[i++];
             nums[k++]=neg[j++];
         }
-        while(i<pos.length) nums[k++]=pos[i++];
-        while(j<neg.length) nums[k++]=neg[j++];
+        // while(i<pos.length) nums[k++]=pos[i++];
+        // while(j<neg.length) nums[k++]=neg[j++];
         return nums;
     }
 }
