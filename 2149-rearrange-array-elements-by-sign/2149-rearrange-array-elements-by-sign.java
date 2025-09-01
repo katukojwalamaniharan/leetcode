@@ -12,11 +12,10 @@ class Solution {
                 neg[c2++]=x;
             }
         }
-        int i=0;int j=0;
-        int k=0;
-        while(i<pos.length&&j<neg.length){
-            nums[k++]=pos[i++];
-            nums[k++]=neg[j++];
+        int j=0;
+        for(int i=0;i<n/2;i++){
+            nums[i*2]=pos[i];
+            nums[i*2+1]=neg[i];
         }
         return nums;
     }
