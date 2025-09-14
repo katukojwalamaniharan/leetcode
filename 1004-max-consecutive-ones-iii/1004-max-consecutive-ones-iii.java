@@ -10,8 +10,7 @@ class Solution {
                 if(nums[l]==0)zc--;
                 l++;
             }
-            len=r-l+1;
-            ans=Math.max(ans,len);
+            ans=Math.max(ans,r-l+1);
         }
         return ans;
     }
