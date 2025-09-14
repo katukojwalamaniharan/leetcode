@@ -1,4 +1,27 @@
+//SOME THING DOWN THERE LOOK <(T_T)>
 class Solution {
+    public int longestConsecutive(int[] nums) {
+        if(nums.length==0) return 0;
+        int ans=1;
+        int n=nums.length;
+        Arrays.sort(nums);
+        int len=1;
+        for(int i=0;i<n-1;i++){
+            if(nums[i]+1==nums[i+1]){
+                len++;
+            }else if(nums[i]==nums[i+1]){
+                continue;
+            }else{
+                len=1;
+            }
+            ans=Math.max(ans,len);
+        }
+        return ans;
+    }
+}
+/*
+    SIMILIAR APPROACHES
+
     public int longestConsecutive(int[] nums) {
         if(nums.length==0) return 0;
         int ans=1;
@@ -24,4 +47,4 @@ class Solution {
         }
         return ans;
     }
-}
+ */
