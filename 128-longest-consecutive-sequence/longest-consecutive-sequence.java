@@ -9,10 +9,12 @@ class Solution {
             ss.add(x);
         }
         for(Integer x:ss){
-            int len=1;
             if(!ss.contains(x-1)){
-                while(ss.contains(x+1)){
-                    x=x+1;
+                int len=1;
+                int curr=x;
+                while(ss.contains(curr+1)){
+                    // x=x+1;
+                    curr++;
                     len++;
                 }
                 ans=Math.max(ans,len);
