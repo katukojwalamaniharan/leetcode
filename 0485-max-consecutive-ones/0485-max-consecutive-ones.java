@@ -12,7 +12,8 @@ class Solution {
             }else{
                 sum++;
             }
-            ans=Math.max(ans,sum);
+            // ans=Math.max(ans,sum);
+            if(sum>ans) ans=sum;
         }
         // for(int r=0;r<nums.length;r++){
         //     sum+=nums[r];
