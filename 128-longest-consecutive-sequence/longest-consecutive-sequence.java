@@ -11,10 +11,10 @@ class Solution {
         for(Integer x:ss){
             if(!ss.contains(x-1)){
                 int len=1;
-                int curr=x;
-                while(ss.contains(curr+1)){
-                    // x=x+1;
-                    curr++;
+                // int curr=x;
+                while(ss.contains(x+1)){
+                    x=x+1;
+                    // curr++;
                     len++;
                 }
                 ans=Math.max(ans,len);
