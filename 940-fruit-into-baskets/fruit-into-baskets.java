@@ -13,7 +13,8 @@ class Solution {
                 }
                 l++;
             }
-            ans=Math.max(ans,r-l+1);
+            // ans=Math.max(ans,r-l+1);
+            if((r-l+1)>ans) ans=r-l+1;
         }
         return ans;
     }
