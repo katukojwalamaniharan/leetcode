@@ -5,16 +5,14 @@ class Solution {
         if(root == null) return ans;
         // st.add(root);
 
-        while(true){
-            if(root!=null){
+        while(root!=null || !st.isEmpty()){
+            while(root!=null){
                 st.add(root);
                 root = root.left;
-            }else{
-                if(st.isEmpty()) break;
+            }
                 root = st.pop();
                 ans.add(root.val);
                 root = root.right;
-            }
         }
         return ans;
     }
