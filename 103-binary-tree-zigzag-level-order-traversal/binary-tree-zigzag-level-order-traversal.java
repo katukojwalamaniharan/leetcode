@@ -20,15 +20,17 @@ class Solution {
         if(root == null) return ans;
         q.add(root);
         int count = 0;
+        boolean normal = false;
         while(!q.isEmpty()){
             List<Integer> t = new LinkedList<>();
             int size = q.size();
             count++;
+            normal = !normal;
             for(int i=0;i<size;i++){
                 TreeNode temp = q.poll();
                 if(temp.left!=null) q.add(temp.left);
                 if(temp.right!=null) q.add(temp.right);
-                if(count%2==0){
+                if(!normal){
                     t.add(0,temp.val);
                 }else{
                     t.add(temp.val);
