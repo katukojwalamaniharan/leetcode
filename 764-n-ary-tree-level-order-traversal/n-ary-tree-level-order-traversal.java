@@ -29,9 +29,10 @@ class Solution {
             for(int i=0;i<size;i++){
                 Node temp = q.poll();
                 tempAns.add(temp.val);
-                if(temp.children!=null){
-                    for(Node c:temp.children) q.add(c);
-                }
+                // if(temp.children!=null){
+                //     for(Node c:temp.children) q.add(c);
+                // }
+                q.addAll(temp.children);
             }
             ans.add(tempAns);
         }
