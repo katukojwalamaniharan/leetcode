@@ -21,17 +21,18 @@ class Solution {
         q.add(root);
         int count = 0;
         while(!q.isEmpty()){
-            List<Integer> t = new ArrayList<>();
+            List<Integer> t = new LinkedList<>();
             int size = q.size();
             count++;
             for(int i=0;i<size;i++){
                 TreeNode temp = q.poll();
-                t.add(temp.val);
                 if(temp.left!=null) q.add(temp.left);
                 if(temp.right!=null) q.add(temp.right);
-            }
-            if(count%2==0){
-                Collections.reverse(t);
+                if(count%2==0){
+                    t.add(0,temp.val);
+                }else{
+                    t.add(temp.val);
+                }
             }
             ans.add(t);
         }
