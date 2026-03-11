@@ -15,20 +15,13 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        long prev = Long.MIN_VALUE;
+        long min = Long.MIN_VALUE;
+        long max = Long.MAX_VALUE;
+        return helper(root,min,max);
+    }
+    boolean helper(TreeNode root,long min,long max){
         if(root == null) return true;
-        if(root.right == null && root.left == null) return true;
-        Stack<TreeNode> st = new Stack<>();
-        while(root!=null || !st.isEmpty()){
-            while(root!=null){
-                st.add(root);
-                root = root.left;
-            }
-            root = st.pop();
-            if(root.val<=prev) return false;
-            prev = root.val;
-            root = root.right;
-        }
-        return true;
+        if(root.val<=min || root.val>=max) return false;
+        return helper(root.left,min,root.val)&&helper(root.right,root.val,max);
     }
 }
