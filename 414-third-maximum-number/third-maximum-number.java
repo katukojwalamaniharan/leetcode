@@ -1,28 +1,17 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Long m1 = null, m2 = null, m3 = null;
-        
-        for (int x : nums) {
-            long num = x;
-            
-            if ((m1 != null && num == m1) ||
-                (m2 != null && num == m2) ||
-                (m3 != null && num == m3)) {
-                continue; // skip duplicates
-            }
-            
-            if (m1 == null || num > m1) {
-                m3 = m2;
-                m2 = m1;
-                m1 = num;
-            } else if (m2 == null || num > m2) {
-                m3 = m2;
-                m2 = num;
-            } else if (m3 == null || num > m3) {
-                m3 = num;
-            }
+        Set<Integer> set = new HashSet<>();
+        for (int n : nums) set.add(n);
+
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        pq.addAll(set);
+
+        if (pq.size() < 3) return pq.peek();
+
+        for (int i = 1; i < 3; i++) {
+            pq.poll();
         }
-        
-        return (m3 == null) ? m1.intValue() : m3.intValue();
+
+        return pq.peek();
     }
 }
