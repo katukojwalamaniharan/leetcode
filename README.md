@@ -80,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/katukojwalamaniharan/leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
