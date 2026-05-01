@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/katukojwalamaniharan/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/katukojwalamaniharan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/katukojwalamaniharan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/katukojwalamaniharan/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2384-largest-palindromic-number](https://github.com/katukojwalamaniharan/leetcode/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Greedy
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/katukojwalamaniharan/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
