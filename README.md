@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
