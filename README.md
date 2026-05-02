@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/katukojwalamaniharan/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/katukojwalamaniharan/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/katukojwalamaniharan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/katukojwalamaniharan/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/katukojwalamaniharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/katukojwalamaniharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
