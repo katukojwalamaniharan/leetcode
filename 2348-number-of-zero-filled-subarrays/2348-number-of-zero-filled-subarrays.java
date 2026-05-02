@@ -6,11 +6,13 @@ class Solution {
             int num = nums[i];
             if(num == 0) {
                 k++;
-                ans+=k;
+                // ans+=k;
             }else{
+                ans+=(long)(k*(k+1))/2;
                 k=0;
             }
         }
+        ans += (long)k * (k + 1) / 2;
         return ans;
     }
 }
