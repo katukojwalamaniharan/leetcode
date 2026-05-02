@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/katukojwalamaniharan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/katukojwalamaniharan/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2384-largest-palindromic-number](https://github.com/katukojwalamaniharan/leetcode/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Greedy
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/katukojwalamaniharan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
 | [0706-design-hashmap](https://github.com/katukojwalamaniharan/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/katukojwalamaniharan/leetcode/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/katukojwalamaniharan/leetcode/tree/main/2384-largest-palindromic-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
