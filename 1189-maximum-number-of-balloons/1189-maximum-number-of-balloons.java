@@ -1,16 +1,16 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        int b=0,a=0,l=0,o=0,n=0;
+        int [] freq = new int[26];
         for(int i=0;i<text.length();i++){
             char c = text.charAt(i);
-            if(c == 'b')b++;
-            else if(c == 'a')a++;
-            else if(c == 'l')l++;
-            else if(c == 'o')o++;
-            else if(c == 'n')n++;
+            freq[c-'a']++;
         }
-        l/=2;
-        o/=2;
-        return Math.min(Math.min(Math.min(b, a), l), Math.min(o, n));
+        return Math.min(
+            Math.min(freq['b'-'a'],freq['a'-'a']),
+            Math.min(
+                Math.min(freq['l'-'a']/2,freq['o'-'a']/2),
+                freq['n'-'a']
+            )
+        );
     }
 }
