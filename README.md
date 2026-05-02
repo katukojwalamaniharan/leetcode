@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/katukojwalamaniharan/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/katukojwalamaniharan/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/katukojwalamaniharan/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/katukojwalamaniharan/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/katukojwalamaniharan/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/katukojwalamaniharan/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/katukojwalamaniharan/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0687-longest-univalue-path) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/katukojwalamaniharan/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/katukojwalamaniharan/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/katukojwalamaniharan/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/katukojwalamaniharan/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/katukojwalamaniharan/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/katukojwalamaniharan/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/katukojwalamaniharan/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Array
