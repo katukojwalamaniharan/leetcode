@@ -6,17 +6,21 @@ class MyStack {
     }
     
     public void push(int x) {
-        while(!q1.isEmpty()){
-            q2.add(q1.poll());
-        }
+        // while(!q1.isEmpty()){
+        //     q2.add(q1.poll());
+        // }
+        // q1.add(x);
+        // while(!q2.isEmpty()){
+        //     q1.add(q2.poll());
+        // }
+        int size = q1.size();
         q1.add(x);
-        while(!q2.isEmpty()){
-            q1.add(q2.poll());
+        for(int i=0;i<size;i++){
+            q1.add(q1.poll());
         }
     }
     
     public int pop() {
-        // if(!q1.isEmpty())
             return q1.poll();
     }
     
