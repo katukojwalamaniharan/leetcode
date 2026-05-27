@@ -12,7 +12,7 @@ class Solution {
                 }
                 if(!st.isEmpty() && st.peek() == Math.abs(num)){
                     st.pop();
-                }else if(st.isEmpty()||st.peek()<0){
+                }else if(st.isEmpty() || st.peek()<0){
                     st.push(num);
                 }
             }
