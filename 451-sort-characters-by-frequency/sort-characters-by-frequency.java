@@ -1,20 +1,22 @@
 class Solution {
     public String frequencySort(String s) {
+        int[] freq = new int[128];
+
+        for(char c : s.toCharArray()) {
+            freq[c]++;
+        }
         StringBuilder ans = new StringBuilder();
         List<Character>[] bucket = new ArrayList[s.length()+1];
-        HashMap<Character,Integer> hm = new HashMap<>();
-        for(int i=0;i<s.length();i++) {
-            char c = s.charAt(i);
-            hm.put(c,hm.getOrDefault(c,0)+1);
-        }
-        for(char key:hm.keySet()){
-            int freq = hm.get(key);
-            if(bucket[freq] == null){
-                bucket[freq] = new ArrayList<Character>();
+        for(int i=0;i<128;i++){
+            if(freq[i]>0){
+                int f = freq[i];
+                if(bucket[f] == null){
+                    bucket[f] = new ArrayList<>();
+                }
+                bucket[f].add((char)i);
             }
-            bucket[freq].add(key);
         }
-        for(int i=s.length();i>=0;i--){
+        for(int i=s.length();i>=1;i--){
             if(bucket[i]!=null){
                 for(char c:bucket[i]){
                     for(int j = 0; j < i; j++) {
