@@ -8,7 +8,7 @@ class Solution {
                 int wanted = -1*(nums[i]+nums[j]);
                 if(seen.contains(wanted)){
                     List<Integer> inner = Arrays.asList(nums[i],nums[j],wanted);
-                    if(!ans.contains(inner)) ans.add(inner);
+                    ans.add(inner);
                 }
                 seen.add(nums[j]);
             }
