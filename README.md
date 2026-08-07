@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/katukojwalamaniharan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/katukojwalamaniharan/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2384-largest-palindromic-number](https://github.com/katukojwalamaniharan/leetcode/tree/main/2384-largest-palindromic-number/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
