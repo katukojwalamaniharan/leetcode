@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/katukojwalamaniharan/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
 | [0706-design-hashmap](https://github.com/katukojwalamaniharan/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Prefix Sum
 |  |
