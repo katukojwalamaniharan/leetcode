@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/katukojwalamaniharan/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/katukojwalamaniharan/leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/katukojwalamaniharan/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
