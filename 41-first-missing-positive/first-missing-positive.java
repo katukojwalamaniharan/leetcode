@@ -1,0 +1,10 @@
+class Solution {
+    public int firstMissingPositive(int[] nums) {
+        HashSet<Integer> hs = new HashSet<>();
+        for(int i:nums)hs.add(i);
+        for(int i=1;i<=nums.length+1;i++){
+            if(!hs.contains(i)) return i;
+        }
+        return -1;
+    }
+}
