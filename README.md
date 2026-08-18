@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/katukojwalamaniharan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/katukojwalamaniharan/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
 | [0706-design-hashmap](https://github.com/katukojwalamaniharan/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/katukojwalamaniharan/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/katukojwalamaniharan/leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
