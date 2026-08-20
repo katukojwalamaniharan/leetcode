@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/katukojwalamaniharan/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/katukojwalamaniharan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/katukojwalamaniharan/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2384-largest-palindromic-number](https://github.com/katukojwalamaniharan/leetcode/tree/main/2384-largest-palindromic-number/) | Medium |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/katukojwalamaniharan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/katukojwalamaniharan/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/katukojwalamaniharan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Common Subsequence
 |  |
