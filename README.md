@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/katukojwalamaniharan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/katukojwalamaniharan/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/katukojwalamaniharan/leetcode/tree/master/0072-edit-distance) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/katukojwalamaniharan/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/katukojwalamaniharan/leetcode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
