@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/katukojwalamaniharan/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/katukojwalamaniharan/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/katukojwalamaniharan/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Hash Function
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
