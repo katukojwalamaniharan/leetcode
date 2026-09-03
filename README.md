@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0390-elimination-game](https://github.com/katukojwalamaniharan/leetcode/tree/master/0390-elimination-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
