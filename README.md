@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/katukojwalamaniharan/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0390-elimination-game](https://github.com/katukojwalamaniharan/leetcode/tree/master/0390-elimination-game) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/katukojwalamaniharan/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0390-elimination-game](https://github.com/katukojwalamaniharan/leetcode/tree/master/0390-elimination-game) |
 ## Hash Table
 |  |
 | ------- |
