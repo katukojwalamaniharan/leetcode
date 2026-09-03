@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/katukojwalamaniharan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/katukojwalamaniharan/leetcode/tree/master/0072-edit-distance) |
 | [0388-longest-absolute-file-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/katukojwalamaniharan/leetcode/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/katukojwalamaniharan/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/katukojwalamaniharan/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/katukojwalamaniharan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/katukojwalamaniharan/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/katukojwalamaniharan/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/katukojwalamaniharan/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/katukojwalamaniharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/katukojwalamaniharan/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Interactive
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/katukojwalamaniharan/leetcode/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
