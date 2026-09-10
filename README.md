@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/katukojwalamaniharan/leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/katukojwalamaniharan/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/katukojwalamaniharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/katukojwalamaniharan/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/katukojwalamaniharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/katukojwalamaniharan/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/katukojwalamaniharan/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/katukojwalamaniharan/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/katukojwalamaniharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/katukojwalamaniharan/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/katukojwalamaniharan/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0229-majority-element-ii) |
