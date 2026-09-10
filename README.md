@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/katukojwalamaniharan/leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/katukojwalamaniharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/katukojwalamaniharan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/katukojwalamaniharan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/katukojwalamaniharan/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/katukojwalamaniharan/leetcode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/katukojwalamaniharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0388-longest-absolute-file-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/katukojwalamaniharan/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/katukojwalamaniharan/leetcode/tree/master/0394-decode-string) |
