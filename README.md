@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/katukojwalamaniharan/leetcode/tree/master/0072-edit-distance) |
 | [0388-longest-absolute-file-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/katukojwalamaniharan/leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/katukojwalamaniharan/leetcode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/katukojwalamaniharan/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/katukojwalamaniharan/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0390-elimination-game](https://github.com/katukojwalamaniharan/leetcode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/katukojwalamaniharan/leetcode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/katukojwalamaniharan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0388-longest-absolute-file-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/katukojwalamaniharan/leetcode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/katukojwalamaniharan/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Design
 |  |
