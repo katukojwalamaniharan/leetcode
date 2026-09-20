@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/katukojwalamaniharan/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/katukojwalamaniharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/katukojwalamaniharan/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/katukojwalamaniharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/katukojwalamaniharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/katukojwalamaniharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/katukojwalamaniharan/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0388-longest-absolute-file-path](https://github.com/katukojwalamaniharan/leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/katukojwalamaniharan/leetcode/tree/master/0394-decode-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/katukojwalamaniharan/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/katukojwalamaniharan/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/katukojwalamaniharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/katukojwalamaniharan/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/katukojwalamaniharan/leetcode/tree/master/0056-merge-intervals) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/katukojwalamaniharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/katukojwalamaniharan/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/katukojwalamaniharan/leetcode/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/katukojwalamaniharan/leetcode/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/katukojwalamaniharan/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
