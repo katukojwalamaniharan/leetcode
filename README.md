@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/katukojwalamaniharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/katukojwalamaniharan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/katukojwalamaniharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/katukojwalamaniharan/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/katukojwalamaniharan/leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/katukojwalamaniharan/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/katukojwalamaniharan/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
