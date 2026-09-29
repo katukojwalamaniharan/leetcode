@@ -14,13 +14,9 @@ class Solution {
         return s.substring(start,start+ans);
     }
     public int expand(String s,int left,int right){
-        while(left>=0 && right<s.length()){
-            if(s.charAt(left) == s.charAt(right)){
-                left--;
-                right++;
-            }else{
-                return right-left-1;
-            }
+        while(left>=0 && right<s.length() && (s.charAt(left) == s.charAt(right))){
+            left--;
+            right++;
         }
         return right-left-1;
     }
